@@ -1,0 +1,17 @@
+{
+  "name": "pratica03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.1.3",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
