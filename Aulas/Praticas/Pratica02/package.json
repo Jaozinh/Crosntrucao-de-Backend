@@ -2,6 +2,8 @@
   "dependencies": {
     "package.json": "^2.0.1"
   },
+  "name": "pratica00002",
+  "version": "1.5.5",
   "name": "pratica22",
   "version": "2.0.0",
   "description": "",
