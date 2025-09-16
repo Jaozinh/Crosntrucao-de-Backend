@@ -3,7 +3,7 @@
     "package.json": "^2.0.1"
   },
   "name": "pratica02",
-  "version": "2.0.0",
+  "version": "1.5",
   "description": "",
   "main": "index.js",
   "devDependencies": {
