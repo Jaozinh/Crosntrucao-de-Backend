@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "name": "pratica02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
